@@ -1,5 +1,5 @@
-def saluda
-	puts "Hola"
+def saluda (nombre)
+	puts "Hola #{nombre} desde GIT"
 end
 
-saluda()
+saluda('Diana')
