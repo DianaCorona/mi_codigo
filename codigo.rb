@@ -1,1 +1,5 @@
-puts "Hola"
+def saluda
+	puts "Hola"
+end
+
+saluda()
